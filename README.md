@@ -1,7 +1,7 @@
 ## Hi, I'm Linda Ramos 👋
 
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Pyton.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js and Pyton.
 - 📫 How to reach me: adnilsomar@gmail.com
 - ⚡ In addition to studying programming language, I have a degree in Industrial Engineering.
 
