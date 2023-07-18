@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, React, Node.js and Pyton.
-- 📫 How to reach me: adnilsomar@gmail.com
+- 📫 How to reach me: www.linkedin.com/in/lindaramosfiguera
 - ⚡ In addition to studying programming language, I have a degree in Industrial Engineering.
 
 ### My insterests
