@@ -7,18 +7,16 @@
 
 ### My insterests
 <div>
-  <!-- HTML5 -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   
-  <!-- CSS3 -->
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
   <!-- Pyton -->
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Pyton"/>
+  
+  <img src="https://img.shields.io/badge/R-1f2124?style=for-the-badge&logo=r&logoColor=blue" alt="HTML5"/>
+  
+  <!-- SQL -->
+  <img src="https://img.shields.io/badge/SQL-054f77?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
+  
+  <!-- noSQL -->
+  <img src="https://img.shields.io/badge/NoSQL-572364?style=for-the-badge&logo=nosql&logoColor=white" alt="nosql"/>
 
-  <!-- ReactJS -->
-  <!-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/> -->
 <div/>
