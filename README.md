@@ -5,8 +5,7 @@
 - 📫 How to reach me: www.linkedin.com/in/lindaramosfiguera.
 - 👩‍🎓 In addition to being in constant learning with programming languages, I hold a degree in Industrial Engineering.
 - ❓ Why is my username adnilsomar? because it's Linda Ramos backwards.
-- 
-- 
+  
 ### My skills
 <div>
   
