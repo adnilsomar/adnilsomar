@@ -2,10 +2,12 @@
 
 
 - 🌱 I'm currently in constant learning in the area of data and Python.
-- 📫 How to reach me: www.linkedin.com/in/lindaramosfiguera
-- ⚡ In addition to studying programming language, I have a degree in Industrial Engineering.
-
-### My skills.
+- 📫 How to reach me: www.linkedin.com/in/lindaramosfiguera.
+- 👩‍🎓 In addition to being in constant learning with programming languages, I hold a degree in Industrial Engineering.
+- ❓ Why is my username adnilsomar? because it's Linda Ramos backwards.
+- 
+- 
+### My skills
 <div>
   
   <!-- Pyton -->
